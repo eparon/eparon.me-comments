@@ -1,6 +1,8 @@
 {
   "origins": [
-    "https://eparon.me",
-    "https://*.eparon-site.pages.dev"
+    "https://eparon.me"
+  ],
+  "originsRegex": [
+    "https://.*\\.eparon-site\\.pages\\.dev"
   ]
 }
